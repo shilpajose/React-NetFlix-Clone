@@ -28,7 +28,7 @@ function Header() {
                             <Dropdown.Item className='ditems' href="#/action-2">हिंदी</Dropdown.Item>
                         </Dropdown.Menu>
                     </Dropdown>
-                    <Button variant="danger">Danger</Button>{' '}
+                    <Button variant="danger">Sign In</Button>{' '}
                 </Container>
             </Navbar>
             <div className="container position-relative">
