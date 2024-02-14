@@ -4,3 +4,10 @@ header{
   height: 700px;
   /* filter: brightness(60%); */
 }
+.ditems{
+  color:rgb(29, 20, 20);
+}
+.ditems:hover{
+  color:#f9f6f6;
+  background-color:rgb(59, 108, 243);
+}
